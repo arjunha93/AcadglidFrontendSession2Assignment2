@@ -1,0 +1,3 @@
+/*
+This is global js file
+*/
